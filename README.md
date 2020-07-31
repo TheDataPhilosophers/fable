@@ -10,8 +10,8 @@ The knowledge required to setup a new database is mostly inferred from an existi
 Few feature include
 1. License Manager
 2. database templating
-3. Data Migration across Databases
-4. Data base backup and restoration
+3. Disaster recovery
+4. 
 5. Automated alerting
 6. Operational Assistance
 7. Database auditing
