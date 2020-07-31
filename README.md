@@ -6,3 +6,13 @@ Within last few decades, the era of computers grew with out leaps and bounds, cu
 The knowledge required to setup a new database is mostly inferred from an existing documentation or by following the overall industry patterns, ofcourse a few customizations are made as per the individual firms or applications standards.
 
 "voithos" is aonther name for an assitant in Greek. Thus the name of the platform became - "voithos". Even though the primary target of this platform is to make the lifes of database adminstrator easier, it also helps in taking care of the trivial matters like resiliency model, scaling capabilities, fault tolerance, etc., while provide a rich set of tools to create your own deployment model. Another aspect of this application, is to track every bit of data stored in all the nodes of the 
+
+Few feature include
+1. License Manager
+2. database templating
+3. Data Migration across Databases
+4. Data base backup and restoration
+5. Automated alerting
+6. Operational Assistance
+7. Database auditing
+8. data management utilities
