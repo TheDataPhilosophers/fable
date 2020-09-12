@@ -1,4 +1,4 @@
-# voithos
+# fable
 System Administrator Assistant
 
 Within the last few decades, the era of computers grew without leaps and bounds, cutting down the cost of computing. But with such a radical growth, too many varied technologies sprouted, to ease the life of application developers and to meet the needs of users with minimal turn around time. Mastering every one of these technologies isn't an easy task and finding developers proficient in a multitude of technologies is also a cumbersome task, not to mention if the technology is anew or grew to be obsolete. With every technology employed in a firm, arises the need for administrators who are primarily responsible for the upkeep and safeguard of these essential building blocks. The day-to-day tasks performed by these administrators are crucial for any firm to make sure their services and transactions are uninterrupted.
