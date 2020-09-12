@@ -11,4 +11,4 @@ Below is [Wikipedia's](https://en.wikipedia.org/wiki/System_administrator#Relate
 5. A **computer operator** performs *routine maintenance and upkeep*, such as changing backup tapes or replacing failed drives in a redundant array of independent disks (RAID). Such tasks usually require a physical presence in the room with the computer, and while less skilled than sysadmin tasks, may require a similar level of trust since the operator has access to possibly sensitive data.
 6. An **SRE (Site Reliability Engineering)** - takes a software engineering or programmatic approach to managing systems, one of the emerging and promising discipline, aimed to reduce the number of effort developers put into the operations.
 
-The role of administrators is tedious and irreplacable.
+The role of administrators is tedious and irreplacable. Higher the complexity of the software the more demanding the job of administrators.
