@@ -16,7 +16,7 @@ The role of administrators is tedious and irreplacable. Higher the complexity of
 1. **Configuration Manager & templatizer**
 2. **Process Manager & Node Explorer**
 3. **License Manager**
-4. **Automator (for Adhoc Recurring tasks)**
+4. **Job executor**
 5. **Entitlement/Account Manager**
 6. **Analysis tools**
 7. **Plugins for specialized tasks/duties**
