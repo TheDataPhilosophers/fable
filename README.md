@@ -11,15 +11,15 @@ Below is [Wikipedia's](https://en.wikipedia.org/wiki/System_administrator#Relate
 5. A **computer operator** performs *routine maintenance and upkeep*, such as changing backup tapes or replacing failed drives in a redundant array of independent disks (RAID). Such tasks usually require a physical presence in the room with the computer, and while less skilled than sysadmin tasks, may require a similar level of trust since the operator has access to possibly sensitive data.
 6. An **SRE (Site Reliability Engineering)** - takes a software engineering or programmatic approach to managing systems, one of the emerging and promising discipline, aimed to reduce the number of effort developers put into the operations.
 
-The role of administrators is tedious and irreplacable. Higher the complexity of the software the more demanding the job of administrators.
+**Fable** is an one stop solution to solve all the growing needs of the administrators. It is a combination of multiple individual components stitched together in a coherent manner. Along with the pre-built components, a frame work to build customizable plugins is provided, such that users can create their own customizable components to administer either the latest products or any custom built applications. Custom built plugins can be seemlessly integrated such that all the existing components interact and share data across them.
 
+**Components:**
 1. **Configuration Manager & templatizer**
 2. **Process Manager & Node Explorer**
 3. **License Manager**
 4. **Job executor**
 5. **Entitlement/Account Manager**
 6. **Analysis tools**
-7. **Plugins for specialized tasks/duties**
+7. **Plugins framework for specialized tasks/duties**
 8. **Documentation or Knowledge Store**
 
-Agent to collect metrics and other info as well as perform tasks like moving data/files either to a specific location or to a backup storage. This will also be crucial in performing low level task with much more efficiency.
