@@ -11,7 +11,7 @@ Below is [Wikipedia's](https://en.wikipedia.org/wiki/System_administrator#Relate
 5. A **computer operator** performs *routine maintenance and upkeep*, such as changing backup tapes or replacing failed drives in a redundant array of independent disks (RAID). Such tasks usually require a physical presence in the room with the computer, and while less skilled than sysadmin tasks, may require a similar level of trust since the operator has access to possibly sensitive data.
 6. An **SRE (Site Reliability Engineering)** - takes a software engineering or programmatic approach to managing systems, one of the emerging and promising discipline, aimed to reduce the number of effort developers put into the operations.
 
-**Fable** is an one stop solution to solve all the growing needs of the administrators. It is a combination of multiple individual components stitched together in a coherent manner. Along with the pre-built components, a frame work to build customizable plugins is provided, such that users can create their own customizable components to administer either the latest products or any custom built applications. Custom built plugins can be seemlessly integrated such that all the existing components interact and share data across them.
+**Fable** is an one stop solution to solve all the growing needs of the administrators. It is a combination of multiple individual components stitched together in a coherent manner. These components helps administrators define and templatize the topology of their product along with it's dependencies. Once these topologies are defined, **fable** will take care of instatiation and upkeep of these topologies, and also help in producingAlong with the pre-built components, a frame work to build customizable plugins is provided, such that users can create their own customized components to administer either the latest products or any custom built applications. Custom built plugins can be seemlessly integrated such that all the existing components interact and share data across them. 
 
 **Components:**
 1. **Configuration Manager & templatizer**
@@ -22,4 +22,6 @@ Below is [Wikipedia's](https://en.wikipedia.org/wiki/System_administrator#Relate
 6. **Analysis tools**
 7. **Plugins framework for specialized tasks/duties**
 8. **Documentation or Knowledge Store**
+
+
 
