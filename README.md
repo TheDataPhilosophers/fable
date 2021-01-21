@@ -17,7 +17,7 @@ Below is [Wikipedia's](https://en.wikipedia.org/wiki/System_administrator#Relate
 1. **Configuration Manager & templatizer**
 2. **Process & Node Discoverer**
 3. **License Manager**
-4. **Job Manager & Automator**
+4. **Job Manager**
 5. **Entitlement/Account Manager**
 6. **Analysis tools**
 7. **Plugins framework for specialized tasks/duties**
